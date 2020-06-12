@@ -69,10 +69,12 @@ body{
     flex-wrap: wrap;
 }
 .lfoot{
- 
     width: 40%;
     padding-left: 10%;
     justify-content:center;
+    flex-wrap: wrap;
+}
+.lfoot p{
     flex-wrap: wrap;
 }
 .rfoot{
