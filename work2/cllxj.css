@@ -76,6 +76,7 @@ body{
 }
 .lfoot p{
     flex-wrap: wrap;
+    width:fit-content;
 }
 .rfoot{
     position: absolute;
